@@ -25,4 +25,4 @@ Soy una persona comprometida  y apasionada por el desarrollo web.  Autodidacta c
 - <h4> 📫 Cómo comunicarse conmigo: </h4>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sararamirezandrade@gmail.com)](mailto:injuca28@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingrid-julieth-camacho-uribe/)](https://www.linkedin.com/in/ingrid-julieth-camacho-uribe/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-julieth-camacho-uribe-52126a139/) 
